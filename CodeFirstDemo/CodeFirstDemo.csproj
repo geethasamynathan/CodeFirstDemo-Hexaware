@@ -137,6 +137,7 @@
       <DependentUpon>202209190947122_dbcreation.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Department.cs" />
     <Compile Include="Models\DepartmentEmployeeContext.cs" />
     <Compile Include="Models\Employee.cs" />
